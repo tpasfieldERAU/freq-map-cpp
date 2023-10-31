@@ -4,4 +4,8 @@ project(freq_map_cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(freq_map_cpp
-        src/main.cpp)
+        src/main.cpp
+        src/mask.cpp
+        src/types.h
+        src/globals.h
+        src/globals.cpp)

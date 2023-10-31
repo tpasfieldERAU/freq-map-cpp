@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include "mask.h"
 
 /* Define constants such as resolution and escape limit.
  * This is only here during initial development. Once systems are refined
