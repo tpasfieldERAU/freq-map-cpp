@@ -8,6 +8,7 @@
 #endif //FREQ_MAP_CPP_MASK_H
 
 #include <vector>
+#include <cmath>
 #include "types.h"
 #include "globals.h"
 
